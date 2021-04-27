@@ -165,4 +165,5 @@ if __name__ == '__main__':
 
 ![6.1.1](https://raw.githubusercontent.com/HongwuQz/PythonHmwk/main/Pictr/6.1.1.png)
 
-![image-20210427072431361](C:\Users\洪武\AppData\Roaming\Typora\typora-user-images\image-20210427072431361.png)
+![6.1.2](https://raw.githubusercontent.com/HongwuQz/PythonHmwk/main/Pictr/6.1.2.png)
+![6.1.3](https://raw.githubusercontent.com/HongwuQz/PythonHmwk/main/Pictr/6.1.3.png)
