@@ -69,4 +69,4 @@ if __name__ == '__main__':
 
 #### 运行结果：
 
-#### ![image-20210427224646000](C:\Users\洪武\AppData\Roaming\Typora\typora-user-images\image-20210427224646000.png)
+#### ![6.2.1](https://github.com/HongwuQz/PythonHmwk/blob/main/Pictr/6.2.1.png)
