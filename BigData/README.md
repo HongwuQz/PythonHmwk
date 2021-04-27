@@ -164,6 +164,5 @@ if __name__ == '__main__':
 #### 代码完成，运行结果如下：
 
 ![6.1.1](https://raw.githubusercontent.com/HongwuQz/PythonHmwk/main/Pictr/6.1.1.png)
-
 ![6.1.2](https://raw.githubusercontent.com/HongwuQz/PythonHmwk/main/Pictr/6.1.2.png)
 ![6.1.3](https://raw.githubusercontent.com/HongwuQz/PythonHmwk/main/Pictr/6.1.3.png)
