@@ -27,5 +27,5 @@ if __name__ == '__main__':
 
 输出结果：
 
-![image-20210428144543526](C:\Users\洪武\AppData\Roaming\Typora\typora-user-images\image-20210428144543526.png)
+![image-20210428144543526](https://github.com/HongwuQz/PythonHmwk/blob/main/Pictr/6.3.1.png)
 
