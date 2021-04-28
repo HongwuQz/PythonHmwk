@@ -27,5 +27,5 @@ if __name__ == '__main__':
 
 输出结果：
 
-![image-20210428144543526](https://github.com/HongwuQz/PythonHmwk/blob/main/Pictr/6.3.1.png)
+![image-6.3](https://github.com/HongwuQz/PythonHmwk/blob/main/Pictr/6.3.1.png)
 
