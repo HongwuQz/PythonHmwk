@@ -1,4 +1,4 @@
-### Python:类与对象训练题
+### Python:继承
 
 完成下列小题
 
@@ -106,3 +106,8 @@ if __name__ == '__main__':
         self.clas = clas
 ```
 
+
+
+##### 运行结果：
+
+![image-6.4](https://github.com/HongwuQz/PythonHmwk/blob/main/Pictr/6.4.png)
