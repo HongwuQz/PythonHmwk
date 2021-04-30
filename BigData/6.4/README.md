@@ -75,11 +75,11 @@ if __name__ == '__main__':
     stu2 = Student("李四", "女", "21岁", "电子科技大学", "电子信息学院")
     stu3 = Student("王五", "男", "21岁", "华东电子科技大学", "电子信息学院")
     tea1 = Teacher("赵六", "男", "24岁", "财经政法大学", "非法学院")
-    tea1.personInfo()
-    stu1.learn()
     stuList = [stu1, stu2, stu3]
     for stu in stuList:
         print(stu.personInfo())
+    tea1.personInfo()
+    stu1.learn()
 ```
 
 
