@@ -27,7 +27,7 @@ plt.show()
 
 实验结果：
 
-![image-20210509225655796](C:\Users\洪武\AppData\Roaming\Typora\typora-user-images\AI9.1.1.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210510091415544.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FscGh5X0hvbmd3dQ==,size_16,color_FFFFFF,t_70#pic_center)
 
 #### 思考
 
@@ -75,7 +75,7 @@ print('数据集：',watermelon_data,'\n标签：',watermelon_target)
 
 输出结果为：
 
-![image-20210510082136062](C:\Users\洪武\AppData\Roaming\Typora\typora-user-images\AI9.1.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210510091657409.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FscGh5X0hvbmd3dQ==,size_16,color_FFFFFF,t_70#pic_center)
 
 得到结果以后，我们就可以直接带入到之前的那个代码中。即：
 
@@ -102,7 +102,7 @@ plt.show()
 
 输出结果：
 
-![image-20210510082305069](C:\Users\洪武\AppData\Roaming\Typora\typora-user-images\AI9.2.1.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210510091710845.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FscGh5X0hvbmd3dQ==,size_16,color_FFFFFF,t_70)
 
 #### 遇到的问题
 
