@@ -68,7 +68,7 @@ with open('wm20.csv','rt')as f:    #运用open with函数自行关闭wm20.csv节
 
 我已经提前把西瓜数据导入为csv格式：[wm20.csv 免费下载](https://download.csdn.net/download/Alphy_Hongwu/18608950)
 
-![西瓜数据](C:\Users\洪武\AppData\Roaming\Typora\typora-user-images\image-20210512153317185.png)
+![西瓜数据](https://github.com/HongwuQz/PythonHmwk/blob/main/Pictr/BigData9.1.1.png)
 
 #### 分离标签和特征：
 
@@ -169,7 +169,7 @@ with open('wm20.dot','w')as output:    #将结果输出为.dot文件，并运用
 
 > 下载了Graphviz后，在文件锁在文件夹shift+右键会出现“在此处打开Powershell窗口”。之后在窗口内输入指令：dot -Tpng wm20.dot -o wm20.png即可获得.png的结果图如下：
 
-![image-20210512165132383](C:\Users\洪武\AppData\Roaming\Typora\typora-user-images\BigData9.2.png)
+![image-20210512165132383](https://github.com/HongwuQz/PythonHmwk/blob/main/Pictr/BigData9.2.png)
 
 ##### 方法二：matplotlib.pyplot
 
@@ -185,7 +185,7 @@ plt.show()
 
 > 输出结果如下：
 
-![BigData9](C:\Users\洪武\AppData\Roaming\Typora\typora-user-images\BigData9.png)
+![BigData9](https://github.com/HongwuQz/PythonHmwk/blob/main/Pictr/BigData9.png)
 
 #### 测试集预测
 
